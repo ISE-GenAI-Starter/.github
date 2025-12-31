@@ -1,10 +1,27 @@
-# Starter Organization for Intro to Software Engineering with GenAI
+# ⚠️ Org Deprecation Notice
 
-This organization is READ-ONLY. Please follow the instructions below to make a new organization for your institution/course.
+**This organization, repositories, and project templates are no longer being actively maintained.**
+
+## New Home
+All active development and future releases can now be found at:
+**[github.com/CodePath](https://github.com/codepath)**
+
+## What should you do?
+1. **Update your remotes:** If you have a local clone, update it using:
+   ```bash
+   git remote set-url origin [https://github.com/CodePath/old-repository-name.git](https://github.com/CodePath/new-repository-name.git)
 
 ## Access
 
-Access to the solution code and the sprint planning for the course (contained within GitHub Projects) is restricted. If you are not a member of this organization, please reach out to your contact to be added. Once added you will recieve an email asking you to join the organization.
+Access to the solution code and the sprint planning for the course (contained within GitHub Projects) is restricted. If you are not a member of the CodePath GitHub organization, please reach out to your contact to be added. Once added you will recieve an email asking you to join the organization.
+
+---
+
+For reference, these are the historical instructions for copying the repositories and projects:
+
+# Starter Organization for Intro to Software Engineering with GenAI
+
+This organization is READ-ONLY. Please follow the instructions below to make a new organization for your institution/course.
 
 ## Instructions to copy repositories
 
